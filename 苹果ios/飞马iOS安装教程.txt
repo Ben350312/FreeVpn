@@ -1,0 +1,5 @@
+先在苹果商店安装TestFlight
+
+再复制以下内容在手机safari浏览器打开：
+
+https://testflight.apple.com/join/T93KKuEf
